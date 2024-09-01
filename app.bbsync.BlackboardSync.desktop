@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Blackboard Sync
+Comment=Automatic Syncing Of Your Blackboard Content
+Exec=blackboardsync
+Icon=app.bbsync.BlackboardSync
+Categories=Education;Network;

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2024, Jacob Sánchez -->
+<component type="desktop-application">
+  <id>app.bbsync.BlackboardSync</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0-only</project_license>
+  <content_rating type="oars-1.1" />
+  <developer_name>Jacob Sánchez</developer_name>
+  <launchable type="desktop-id">app.bbsync.BlackboardSync.desktop</launchable>
+  <name>Blackboard Sync</name>
+  <summary>Automatic Syncing Of Your Blackboard Content</summary>
+  <summary xml:lang="es">Descarga contenido de Blackboard Learn</summary>
+
+  <description>
+    <p>A student favourite, now available on FlatHub!</p>
+    <p>Download all your content from Blackboard Learn to your device, without any intervention.</p>
+    <p>Sync content like text documents, spreadsheets and lecture slides, which you can later access offline.</p>
+    <p>More than 30 universities supported around the world.</p>
+  </description>
+
+  <screenshots>
+    <screenshot type="default">
+      <caption>Blackboard Sync lives in your system tray.</caption>
+      <image type="source">https://bbsync.app/assets/screenshots/BBS_Tray.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Log in to your university or college.</caption>
+      <image type="source">https://bbsync.app/assets/screenshots/BBS_Login.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Be notified of downloads when they start.</caption>
+      <image type="source">https://bbsync.app/assets/screenshots/BBS_Notification.png</image>
+    </screenshot>
+  </screenshots>
+
+  <releases>
+  
+  </releases>
+
+  <url type="homepage">https://github.com/sanjacob/BlackboardSync</url>
+  <url type="bugtracker">https://github.com/sanjacob/BlackboardSync/issues</url>
+  <url type="donation">https://github.com/sanjacob/BlackboardSync#show-your-support</url>
+</component>
