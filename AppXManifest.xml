@@ -6,7 +6,7 @@
   xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities">
 
   <Identity Name="WeAreMagic.27984CD41C10"
-    Version="0.17.1.0"
+    Version="0.17.2.0"
     Publisher="CN=08B29936-C25A-4550-B7B9-EF5FF06CAC8A"
     ProcessorArchitecture="x64" />
 
@@ -19,6 +19,9 @@
 
   <Resources>
     <Resource Language="en-us" />
+    <Resource Language="es" />
+    <Resource Language="fr" />
+    <Resource Language="de" />
   </Resources>
 
   <Dependencies>
