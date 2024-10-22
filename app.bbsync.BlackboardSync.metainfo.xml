@@ -35,6 +35,12 @@
 
   <releases>
   
+    <release version="0.18.0" date="2024-10-22">
+      <url>
+        https://github.com/sanjacob/BlackboardSync/releases/tag/0.18.0
+      </url>
+    </release>
+  
     <release version="0.17.4" date="2024-10-12">
       <url>
         https://github.com/sanjacob/BlackboardSync/releases/tag/0.17.4
